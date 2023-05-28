@@ -12,3 +12,23 @@ h1 {
     padding-top: 40px;
     font-weight: bold;
 }
+.container {
+    border: 1px solid grey;
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin: 70px;
+    background-color: rgb(64, 59, 59);
+    border-radius: 20px;
+
+}
+.product {
+    padding-top: 30px ;
+    padding-bottom: 30px;
+    border-radius: 20px;
+}
+.for {
+    color: white;
+    text-align: center;
+    font-style: italic ;
+}
